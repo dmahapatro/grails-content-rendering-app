@@ -1,0 +1,1 @@
+# grails-content-rendering-app
